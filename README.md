@@ -5,9 +5,12 @@
 
 ***Feature Engineering*** <br>
 - ✅Outliers 
-	- buraya eklemeler yapılacak
+	- Catching Outliers
+	- Re-assignment with Thresholds
+	- Local Outlier Factor (LOF)
 - ✅Missing Values 
-	- buraya eklemeler yapılacak
+	- Solving the Missing Value Problem
+	- Advanced Analytics
 - ✅Encoding Scaling 
 	- Label Encoding 
 	- One Hot Encoding 
